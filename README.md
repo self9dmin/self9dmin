@@ -1,16 +1,27 @@
-## Hi there 👋
+Manager of Customer Success at Dynatrace.  
+Leading post-sales across LATAM and North America.
 
-<!--
-**self9dmin/self9dmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems, tools, and experiments from real customer and operational work.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Customer Success and post-sales systems  
+Internal tools and workflows  
+SaaS reliability, SLAs, and vendor risk  
+Support, GTM, and operations automation  
+
+## Projects
+
+**danquintero.com**  
+Personal site.
+
+**openclause.io**  
+Upcoming. Vendor reliability platform.
+
+**sla.directory**  
+Upcoming. SLA discovery and evidence tooling.
+
+## Contact
+
+danquintero.com  
+linkedin.com/in/dan-quintero
