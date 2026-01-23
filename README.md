@@ -1,5 +1,4 @@
-Manager of Customer Success at Dynatrace.  
-Leading post-sales across LATAM and North America.
+Manager of Customer Success at Dynatrace, leading post-sales across LATAM and North America.
 
 Systems, tools, and experiments from real customer and operational work.
 
