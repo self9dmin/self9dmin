@@ -15,7 +15,7 @@ Support, GTM, and operations automation
 Personal site.
 
 **openclause.io**  
-Upcoming. Vendor reliability platform.
+MVP. Vendor reliability platform.
 
 **sla.directory**  
 Upcoming. SLA discovery and evidence tooling.
